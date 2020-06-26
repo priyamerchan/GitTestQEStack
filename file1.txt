@@ -2,3 +2,6 @@ Welcome to GIT
 
 
 added comment to revert
+
+
+Added new comment to check pull
